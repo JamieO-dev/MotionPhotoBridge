@@ -100,4 +100,4 @@ xcrun swift test
 bash scripts/build-app.sh --test --universal --dmg
 ```
 
-The tests use generated media and never import test photos into your Photos library. See the [technical guide](docs/TECHNICAL-GUIDE.md) for supported layouts, encoding details, and build options, or the [Mac verification guide](docs/MAC_VERIFICATION.md) for real-device checks. A [screenshot capture guide](docs/CAPTURE-SCREENSHOTS.md) explains how to replace the illustrations with native app captures.
+The tests use generated media and never import test photos into your Photos library. See the [technical guide](docs/TECHNICAL-GUIDE.md) for supported layouts, encoding details, and build options, or the [Mac verification guide](docs/MAC_VERIFICATION.md) for real-device checks.
