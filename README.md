@@ -2,6 +2,8 @@
 
 ## Keep the motion. Choose the format.
 
+The problem - Android mobile user who uses OSX losing motion functionality within the Mac Photos App.
+
 MotionPhotoBridge is a native Mac app for converting between **Apple Live Photos**, **Google Motion Photos**, and **Samsung Motion Photos**. Bring your original photos, choose a destination, and keep the still image and its moving moment together.
 
 Convert from iPhone to Google or Samsung, from Android to Apple, or between Google and Samsung formats. MotionPhotoBridge detects the source automatically and handles batches of photos in one window.
