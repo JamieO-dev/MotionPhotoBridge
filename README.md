@@ -10,9 +10,7 @@ Convert from iPhone to Google or Samsung, from Android to Apple, or between Goog
 
 ## Interface illustrations
 
-*Illustrated from the app source; these are not captures of a running macOS build.*
-
-### One menu. Three destinations.
+### One input. Choice of outputs.
 
 Choose **Apple Live Photo**, **Google Motion Photo**, or **Samsung Motion Photo** in **Convert To**. The selected format applies to the batch. Keep the audio, turn it off, or choose between a three-second clip and the full motion clip.
 
