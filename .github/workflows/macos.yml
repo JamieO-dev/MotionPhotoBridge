@@ -1,0 +1,30 @@
+name: macOS build and tests
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  macos:
+    runs-on: macos-15
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Show selected Apple toolchain
+        run: xcrun swift --version
+      - name: Run parser and conversion tests
+        run: xcrun swift test
+      - name: Build Apple silicon and Intel app
+        run: bash scripts/build-app.sh --universal
+      - name: Archive app preserving its bundle and executable permissions
+        run: ditto -c -k --sequesterRsrc --keepParent dist/MotionPhotoBridge.app dist/MotionPhotoBridge-macOS-universal.zip
+      - uses: actions/upload-artifact@v4
+        with:
+          name: MotionPhotoBridge-macOS-universal
+          path: dist/MotionPhotoBridge-macOS-universal.zip
+          if-no-files-found: error
+          retention-days: 14

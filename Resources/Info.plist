@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleDisplayName</key>
+    <string>MotionPhotoBridge</string>
+    <key>CFBundleExecutable</key>
+    <string>MotionPhotoBridge</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.motionphotobridge.app</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>MotionPhotoBridge</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>2.0.1</string>
+    <key>CFBundleVersion</key>
+    <string>3</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.photography</string>
+    <key>LSUIElement</key>
+    <false/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>MotionPhotoBridge adds the Live Photos you choose to your Photos library. Your original motion photos remain unchanged.</string>
+    <key>CFBundleDocumentTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeName</key>
+            <string>Motion Photo and Live Photo Resources</string>
+            <key>CFBundleTypeRole</key>
+            <string>Viewer</string>
+            <key>LSHandlerRank</key>
+            <string>Alternate</string>
+            <key>LSItemContentTypes</key>
+            <array>
+                <string>public.jpeg</string>
+                <string>public.heic</string>
+                <string>public.heif</string>
+                <string>public.avif</string>
+                <string>com.apple.quicktime-movie</string>
+                <string>public.mpeg-4</string>
+            </array>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>jpg</string>
+                <string>jpeg</string>
+                <string>heic</string>
+                <string>heif</string>
+                <string>avif</string>
+                <string>mov</string>
+                <string>mp4</string>
+            </array>
+        </dict>
+    </array>
+</dict>
+</plist>

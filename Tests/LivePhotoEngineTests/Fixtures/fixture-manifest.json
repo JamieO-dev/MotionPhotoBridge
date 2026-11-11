@@ -1,0 +1,22 @@
+{
+  "google-modern.jpg": {
+    "video_start": 27290,
+    "video_length": 208025,
+    "timestamp_us": 2000000
+  },
+  "google-legacy.jpg": {
+    "video_start": 26990,
+    "video_length": 208025,
+    "timestamp_us": 2000000
+  },
+  "rotated-google.jpg": {
+    "video_start": 27290,
+    "video_length": 208025,
+    "timestamp_us": 2000000
+  },
+  "samsung-sef.jpg": {
+    "video_start": 26506,
+    "video_length": 208025,
+    "timestamp_us": null
+  }
+}

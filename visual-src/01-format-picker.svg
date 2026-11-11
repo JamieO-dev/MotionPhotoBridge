@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="1100" viewBox="0 0 1600 1100"><defs><linearGradient id="brand" x2="1" y2="1"><stop stop-color="#6e5ce0"/><stop offset="1" stop-color="#3d8cec"/></linearGradient><radialGradient id="bg"><stop stop-color="#f5f4f8"/><stop offset="1" stop-color="#e9e5f3"/></radialGradient><clipPath id="windowclip"><rect width="1040" height="720" rx="13"/></clipPath></defs>
+<rect x="0" y="0" width="1600" height="1100" rx="0" fill="url(#bg)"/>
+<text x="202" y="60" font-family="Arial, sans-serif" font-size="14" font-weight="650" text-anchor="start" letter-spacing="2.5" fill="#7468ac">MOTIONPHOTOBRIDGE / FOR MAC</text>
+<text x="202" y="125" font-family="Arial, sans-serif" font-size="47" font-weight="650" text-anchor="start" letter-spacing="-1.6" fill="#272735">Choose where your motion goes.</text>
+<text x="202" y="167" font-family="Arial, sans-serif" font-size="21" font-weight="400" text-anchor="start" letter-spacing="0" fill="#6b6977">Convert Apple Live Photos into Google or Samsung Motion Photos.</text>
+<g transform="translate(202 207) scale(1.15)">
+<rect x="0" y="0" width="1040" height="720" rx="13" fill="#f7f7f9" stroke="#b4aebe" stroke-width="1"/>
+<g clip-path="url(#windowclip)">
+<rect x="0" y="0" width="1040" height="30" rx="0" fill="#efedf3"/>
+<path d="M0 30L1040 30" stroke="#d7d6de" stroke-width="1" fill="none"/>
+<circle cx="20" cy="15" r="5.5" fill="#ff5e58" stroke="#00000012"/>
+<circle cx="38" cy="15" r="5.5" fill="#ffbd2f" stroke="#00000012"/>
+<circle cx="56" cy="15" r="5.5" fill="#29c83f" stroke="#00000012"/>
+<text x="520" y="19" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="0" fill="#686570">MotionPhotoBridge</text>
+<rect x="0" y="30" width="248" height="690" rx="0" fill="#eeeef3"/>
+<path d="M248 30L248 720" stroke="#d6d5df" stroke-width="1" fill="none"/>
+<rect x="20" y="50" width="40" height="40" rx="10" fill="url(#brand)"/>
+<svg x="26.5" y="56.5" width="27" height="27" viewBox="0 0 32 32" color="white" stroke="white" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="16" r="13" stroke="currentColor" stroke-width="1.5" fill="none" stroke-dasharray="1.3 3.2" stroke-linecap="round"/><circle cx="16" cy="16" r="9" stroke="currentColor" stroke-width="1.5" fill="none"/><circle cx="16" cy="16" r="5" stroke="currentColor" stroke-width="1.5" fill="none"/></svg>
+<text x="69" y="68" font-family="Arial, sans-serif" font-size="16" font-weight="650" text-anchor="start" letter-spacing="0" fill="#272735">MotionPhotoBridge</text>
+<text x="69" y="85" font-family="Arial, sans-serif" font-size="9.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#7b7885">Keep every moment moving.</text>
+<rect x="20" y="117" width="208" height="62" rx="12" fill="#e6e2f3"/>
+<svg x="34" y="131" width="12" height="12" viewBox="0 0 24 24" color="#534f61" stroke="#534f61" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V5a1 1 0 0 1 1-1h4m6 0h4a1 1 0 0 1 1 1v4m0 6v4a1 1 0 0 1-1 1h-4m-6 0H5a1 1 0 0 1-1-1v-4"/></svg>
+<text x="53" y="141" font-family="Arial, sans-serif" font-size="12" font-weight="550" text-anchor="start" letter-spacing="0" fill="#534f61">Automatic detection</text>
+<text x="34" y="162" font-family="Arial, sans-serif" font-size="11.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#777383">Apple · Google · Samsung</text>
+<text x="20" y="210" font-family="Arial, sans-serif" font-size="9" font-weight="650" text-anchor="start" letter-spacing="1.1" fill="#8d8897">CONVERT TO</text>
+<rect x="20" y="220" width="208" height="29" rx="6" fill="#fdfdfe" stroke="#c7c4ce" stroke-width="1"/>
+<text x="29" y="239" font-family="Arial, sans-serif" font-size="11" font-weight="500" text-anchor="start" letter-spacing="0" fill="#3d3948">Google Motion Photo</text>
+<svg x="207" y="228" width="12" height="12" viewBox="0 0 24 24" color="#827a90" stroke="#827a90" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m8 9 4-4 4 4m-8 6 4 4 4-4"/></svg>
+<text x="20" y="267" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="start" letter-spacing="0" fill="#7a7584">One JPEG with embedded MP4</text>
+<text x="20" y="296" font-family="Arial, sans-serif" font-size="9" font-weight="650" text-anchor="start" letter-spacing="1.1" fill="#8d8897">SAVE IN</text>
+<rect x="20" y="307" width="208" height="57" rx="9" fill="#fcfcfd" stroke="#dddbe5" stroke-width="1"/>
+<svg x="31" y="320" width="15" height="15" viewBox="0 0 24 24" color="#6e5ce0" stroke="#6e5ce0" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h7l2 2h8a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V6Z"/></svg>
+<text x="54" y="328" font-family="Arial, sans-serif" font-size="11" font-weight="550" text-anchor="start" letter-spacing="0" fill="#40394c">Converted Photos</text>
+<text x="54" y="342" font-family="Arial, sans-serif" font-size="9" font-weight="400" text-anchor="start" letter-spacing="0" fill="#8b8595">/Users/demo/Pictures/</text>
+<text x="54" y="354" font-family="Arial, sans-serif" font-size="9" font-weight="400" text-anchor="start" letter-spacing="0" fill="#8b8595">Converted Photos</text>
+<svg x="204" y="323" width="10" height="10" viewBox="0 0 24 24" color="#aaa4b4" stroke="#aaa4b4" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m8 9 4-4 4 4m-8 6 4 4 4-4"/></svg>
+<text x="20" y="395" font-family="Arial, sans-serif" font-size="9" font-weight="650" text-anchor="start" letter-spacing="1.1" fill="#8d8897">CONVERSION</text>
+<text x="20" y="419" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start" letter-spacing="0" fill="#40394c">Keep original audio</text>
+<rect x="200" y="407" width="28" height="17" rx="9" fill="#6e5ce0"/>
+<circle cx="219.5" cy="415.5" r="6.5" fill="white"/>
+<text x="20" y="447" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start" letter-spacing="0" fill="#40394c">Motion length</text>
+<rect x="20" y="457" width="208" height="26" rx="6" fill="#dedce5" stroke="#d6d3de" stroke-width="1"/>
+<rect x="22" y="459" width="101" height="22" rx="4" fill="#fff"/>
+<text x="73" y="474" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle" letter-spacing="0" fill="#443e50">3 seconds</text>
+<text x="175" y="474" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="middle" letter-spacing="0" fill="#746f80">Full clip</text>
+<text x="20" y="501" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="start" letter-spacing="0" fill="#827b8d">A short clip is centered on the original</text>
+<text x="20" y="515" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="start" letter-spacing="0" fill="#827b8d">photo’s capture time when available.</text>
+<svg x="20" y="642" width="12" height="12" viewBox="0 0 24 24" color="#787283" stroke="#787283" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 8 3v6c0 5-8 9-8 9s-8-4-8-9V6l8-3Z"/><rect x="9" y="10" width="6" height="5" rx="1"/><path d="M10 10V8a2 2 0 0 1 4 0v2"/></svg>
+<text x="38" y="652" font-family="Arial, sans-serif" font-size="10" font-weight="550" text-anchor="start" letter-spacing="0" fill="#787283">On your Mac. No uploads.</text>
+<text x="20" y="671" font-family="Arial, sans-serif" font-size="9" font-weight="400" text-anchor="start" letter-spacing="0" fill="#787283">JPEG + H.264 video · Standard dynamic</text>
+<text x="20" y="684" font-family="Arial, sans-serif" font-size="9" font-weight="400" text-anchor="start" letter-spacing="0" fill="#787283">range. HDR and gain maps aren’t preserved.</text>
+<text x="274" y="78" font-family="Arial, sans-serif" font-size="24" font-weight="650" text-anchor="start" letter-spacing="0" fill="#272735">Your Photos</text>
+<text x="274" y="99" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start" letter-spacing="0" fill="#827c8d">2 photos</text>
+<rect x="897" y="64" width="70" height="30" rx="6" fill="#fff" stroke="#d7d3df" stroke-width="1"/>
+<text x="932.0" y="83" font-family="Arial, sans-serif" font-size="11" font-weight="500" text-anchor="middle" letter-spacing="0" fill="#4a4356">＋ Add⌄</text>
+<rect x="979" y="64" width="35" height="30" rx="6" fill="#fff" stroke="#d7d3df" stroke-width="1"/>
+<text x="996.5" y="83" font-family="Arial, sans-serif" font-size="11" font-weight="500" text-anchor="middle" letter-spacing="0" fill="#4a4356">•••</text>
+<path d="M248 132L1040 132" stroke="#dfdce5" stroke-width="1" fill="none"/>
+<rect x="268" y="152" width="752" height="108" rx="12" fill="#fff" stroke="#e4e1e9" stroke-width="1"/>
+<defs><clipPath id="clip59"><rect x="281" y="174" width="58" height="58" rx="9"/></clipPath></defs><g clip-path="url(#clip59)">
+<svg x="281" y="174" width="58" height="58" viewBox="0 0 960 640" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="art1s-59" x2="0" y2="1"><stop stop-color="#bedce9"/><stop offset="1" stop-color="#e3eaf0"/></linearGradient><linearGradient id="art1w-59" x2="0" y2="1"><stop stop-color="#659fae"/><stop offset=".5" stop-color="#5bafba"/><stop offset="1" stop-color="#a7d3cf"/></linearGradient><linearGradient id="art1r-59" x2=".8" y2="1"><stop stop-color="#84948c"/><stop offset="1" stop-color="#3d655b"/></linearGradient></defs><rect width="960" height="640" fill="url(#art1s-59)"/><circle cx="723" cy="131" r="50" fill="#fff8df"/><path d="M0 284Q215 269 460 280T960 266V640H0Z" fill="url(#art1w-59)"/><path d="M960 270 822 284 757 321 643 344 579 406 421 463 336 542 212 640H960Z" fill="#ecdfc2"/><path d="M960 231 814 255 770 291 674 316 609 375 465 421 389 503 275 640H960Z" fill="url(#art1r-59)"/><path d="M960 253 832 271 781 306 686 330 630 383 483 438 411 511 306 640" stroke="#d5d2b8" stroke-width="11" fill="none"/><path d="m317 568 65-45 37-49 82-38m71-51 84-24 39-34m-554 71 123 2m-184 44 166 3m-139 65 205 5m-250 66 179 8" stroke="#ebf7eb" stroke-width="3" opacity=".75" fill="none"/><path d="M0 575Q47 544 102 580T207 640H0Z" fill="#376d66"/><path d="M12 590q59-14 100 17" stroke="#79957c" stroke-width="3" fill="none"/></svg>
+</g>
+<text x="352" y="177" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0" fill="#40394c">IMG_2048.HEIC</text>
+<rect x="352" y="185" width="112" height="22" rx="11" fill="#f4f1fc"/>
+<svg x="359" y="190" width="11" height="11" viewBox="0 0 24 24" color="#6e5ce0" stroke="#6e5ce0" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m9 15 6-6m-4-3 2-2a4 4 0 0 1 6 6l-3 3m-3 5-2 2a4 4 0 0 1-6-6l3-3"/></svg>
+<text x="374" y="199" font-family="Arial, sans-serif" font-size="9" font-weight="500" text-anchor="start" letter-spacing="0" fill="#6e5ce0">Apple Live Photo</text>
+<text x="352" y="224" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="start" letter-spacing="0" fill="#7f788b">Ready to convert</text>
+<text x="352" y="239" font-family="Arial, sans-serif" font-size="9" font-weight="400" text-anchor="start" letter-spacing="0" fill="#aaa3b3">8.4 MB</text>
+<rect x="952" y="165" width="55" height="21" rx="11" fill="#f1eff4"/>
+<svg x="959" y="170" width="11" height="11" viewBox="0 0 24 24" color="#9990a3" stroke="#9990a3" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/></svg>
+<text x="974" y="179" font-family="Arial, sans-serif" font-size="9" font-weight="500" text-anchor="start" letter-spacing="0" fill="#9990a3">Ready</text>
+<svg x="987" y="197" width="14" height="14" viewBox="0 0 24 24" color="#a39aac" stroke="#a39aac" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 6 12 12M6 18 18 6"/></svg>
+<rect x="268" y="269" width="752" height="108" rx="12" fill="#fff" stroke="#e4e1e9" stroke-width="1"/>
+<defs><clipPath id="clip73"><rect x="281" y="291" width="58" height="58" rx="9"/></clipPath></defs><g clip-path="url(#clip73)">
+<svg x="281" y="291" width="58" height="58" viewBox="0 0 960 640" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="art2s-73" x2="0" y2="1"><stop stop-color="#d7dce9"/><stop offset="1" stop-color="#f6e0ce"/></linearGradient><linearGradient id="art2w-73" x2="0" y2="1"><stop stop-color="#92bec1"/><stop offset="1" stop-color="#326d7a"/></linearGradient></defs><rect width="960" height="640" fill="url(#art2s-73)"/><circle cx="722" cy="150" r="64" fill="#fff3d5"/><path d="M-80 425 160 155 325 319 493 80 722 368 940 160 1030 440Z" fill="#9caeb5"/><path d="m111 210 49-55 77 76-56-18-22 20-20-25Zm300-24 82-106 91 114-57-24-31 25-31-30Z" fill="#eef3ec"/><path d="M0 419 157 316 339 464 652 267 960 434V640H0Z" fill="#3b6c76"/><path d="M0 466Q260 429 472 476T960 466V640H0Z" fill="url(#art2w-73)"/><path d="M80 512h252m120 58h312m-221-57h280m-600 96h306" stroke="#cde2d8" stroke-width="3" opacity=".35"/><path d="M0 525 70 492 161 541 246 640H0Z" fill="#214d55"/></svg>
+</g>
+<text x="352" y="294" font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="start" letter-spacing="0" fill="#40394c">IMG_2057.HEIC</text>
+<rect x="352" y="302" width="112" height="22" rx="11" fill="#f4f1fc"/>
+<svg x="359" y="307" width="11" height="11" viewBox="0 0 24 24" color="#6e5ce0" stroke="#6e5ce0" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m9 15 6-6m-4-3 2-2a4 4 0 0 1 6 6l-3 3m-3 5-2 2a4 4 0 0 1-6-6l3-3"/></svg>
+<text x="374" y="316" font-family="Arial, sans-serif" font-size="9" font-weight="500" text-anchor="start" letter-spacing="0" fill="#6e5ce0">Apple Live Photo</text>
+<text x="352" y="341" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="start" letter-spacing="0" fill="#7f788b">Ready to convert</text>
+<text x="352" y="356" font-family="Arial, sans-serif" font-size="9" font-weight="400" text-anchor="start" letter-spacing="0" fill="#aaa3b3">10.2 MB</text>
+<rect x="952" y="282" width="55" height="21" rx="11" fill="#f1eff4"/>
+<svg x="959" y="287" width="11" height="11" viewBox="0 0 24 24" color="#9990a3" stroke="#9990a3" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/></svg>
+<text x="974" y="296" font-family="Arial, sans-serif" font-size="9" font-weight="500" text-anchor="start" letter-spacing="0" fill="#9990a3">Ready</text>
+<svg x="987" y="314" width="14" height="14" viewBox="0 0 24 24" color="#a39aac" stroke="#a39aac" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 6 12 12M6 18 18 6"/></svg>
+<rect x="249" y="658" width="791" height="62" rx="0" fill="#fbfbfc"/>
+<path d="M248 658L1040 658" stroke="#dfdce5" stroke-width="1" fill="none"/>
+<svg x="272" y="683" width="12" height="12" viewBox="0 0 24 24" color="#6e5ce0" stroke="#6e5ce0" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h7l2 2h8a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V6Z"/></svg>
+<text x="291" y="693" font-family="Arial, sans-serif" font-size="10" font-weight="400" text-anchor="start" letter-spacing="0" fill="#6e5ce0">Open export folder</text>
+<rect x="870" y="675" width="146" height="30" rx="6" fill="#6e5ce0" stroke="#6854cd" stroke-width="1"/>
+<text x="943.0" y="694" font-family="Arial, sans-serif" font-size="11" font-weight="500" text-anchor="middle" letter-spacing="0" fill="#fff">Convert 2 Photos</text>
+</g>
+<rect x="14" y="227" width="231" height="96" rx="8" fill="#fffffe" stroke="#b8b1c8" stroke-width="1"/>
+<text x="41" y="250" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start" letter-spacing="0" fill="#474053">Apple Live Photo</text>
+<rect x="19" y="260" width="221" height="28" rx="4" fill="#6e5ce0"/>
+<svg x="27" y="268" width="12" height="12" viewBox="0 0 24 24" color="white" stroke="white" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg>
+<text x="44" y="279" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start" letter-spacing="0" fill="white">Google Motion Photo</text>
+<text x="41" y="307" font-family="Arial, sans-serif" font-size="11" font-weight="400" text-anchor="start" letter-spacing="0" fill="#474053">Samsung Motion Photo</text>
+<path d="M217 279v21l5-5 5 9 4-2-5-9 8-1Z" fill="#33303b" stroke="white" stroke-width="1.5"/>
+</g>
+<text x="202" y="1070" font-family="Arial, sans-serif" font-size="14" font-weight="500" text-anchor="start" letter-spacing="0" fill="#766a90">Interface illustration · Based on MotionPhotoBridge 2 source</text>
+<text x="1398" y="1070" font-family="Arial, sans-serif" font-size="13" font-weight="400" text-anchor="end" letter-spacing="1.3" fill="#a29aa9">01 / 03</text>
+</svg>
